@@ -5,28 +5,6 @@
   <img width=80% src="http://rondinelliharris.xpg.uol.com.br/images/charLine2.png" />
 </div>
 
-# LineChartView
-
-<div>
-  <img width=50% src="http://rondinelliharris.xpg.uol.com.br/images/chartLine1.png" />
-  <img width=80% src="http://rondinelliharris.xpg.uol.com.br/images/charLine2.png" />
-</div>
-
-# LineChartView
-
-<div>
-  <img width=50% src="http://rondinelliharris.xpg.uol.com.br/images/chartLine1.png" />
-  <img width=80% src="http://rondinelliharris.xpg.uol.com.br/images/charLine2.png" />
-</div>
-
-
-# LineChartView
-
-<div>
-  <img width=50% src="http://rondinelliharris.xpg.uol.com.br/images/chartLine1.png" />
-  <img width=80% src="http://rondinelliharris.xpg.uol.com.br/images/charLine2.png" />
-</div>
-
 ### whats is this? ###
 
 It is a subclass of `UIView` that shows a simple line graph with animation.
